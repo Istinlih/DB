@@ -1,0 +1,108 @@
+### Start Record
+name:018; value:str:001 -: examsResults_0_2_m=5
+name:018; value:str:001 -: examsResults_0_2_s=0
+name:018; value:str:009 -: examsResults_0_2_n=Философия
+name:018; value:str:001 -: examsResults_0_1_m=5
+name:018; value:str:001 -: examsResults_0_1_s=1
+name:018; value:str:006 -: examsResults_0_1_n=Физика
+name:018; value:str:001 -: examsResults_0_0_m=3
+name:018; value:str:001 -: examsResults_0_0_s=1
+name:018; value:str:005 -: examsResults_0_0_n=Матан
+name:015; value:str:009 -: birthDateString=15.1.1998
+name:009; value:int:001 -: startYear=0
+name:003; value:int:001 -: sex=0
+name:016; value:str:000 -: recordСardNumber=
+name:005; value:str:007 -: group=БАСО-01
+name:010; value:str:006 -: department=ИКБиСП
+name:007; value:str:000 -: faculty=
+name:010; value:str:009 -: middleName=Борисович
+name:004; value:str:005 -: name=Борис
+name:007; value:str:007 -: surName=Борисов
+### End Record
+### Start Record
+name:018; value:str:001 -: examsResults_0_0_m=3
+name:018; value:str:001 -: examsResults_0_0_s=1
+name:018; value:str:005 -: examsResults_0_0_n=Матан
+name:015; value:str:009 -: birthDateString=14.8.2001
+name:009; value:int:001 -: startYear=0
+name:003; value:int:001 -: sex=0
+name:016; value:str:000 -: recordСardNumber=
+name:005; value:str:007 -: group=БАСО-01
+name:010; value:str:000 -: department=
+name:007; value:str:000 -: faculty=
+name:010; value:str:011 -: middleName=Гавриилович
+name:004; value:str:007 -: name=Гавриил
+name:007; value:str:009 -: surName=Гавриилов
+### End Record
+### Start Record
+name:018; value:str:001 -: examsResults_0_2_m=4
+name:018; value:str:001 -: examsResults_0_2_s=1
+name:018; value:str:006 -: examsResults_0_2_n=Физика
+name:018; value:str:001 -: examsResults_0_1_m=3
+name:018; value:str:001 -: examsResults_0_1_s=0
+name:018; value:str:012 -: examsResults_0_1_n=Русский язык
+name:018; value:str:001 -: examsResults_0_0_m=5
+name:018; value:str:001 -: examsResults_0_0_s=1
+name:018; value:str:005 -: examsResults_0_0_n=Матан
+name:015; value:str:009 -: birthDateString=1.11.1999
+name:009; value:int:001 -: startYear=0
+name:003; value:int:001 -: sex=1
+name:016; value:str:000 -: recordСardNumber=
+name:005; value:str:007 -: group=БАСО-01
+name:010; value:str:000 -: department=
+name:007; value:str:000 -: faculty=
+name:010; value:str:008 -: middleName=Иванович
+name:004; value:str:004 -: name=Иван
+name:007; value:str:006 -: surName=Иванов
+### End Record
+### Start Record
+name:018; value:str:001 -: examsResults_0_0_m=4
+name:018; value:str:001 -: examsResults_0_0_s=1
+name:018; value:str:005 -: examsResults_0_0_n=Матан
+name:015; value:str:009 -: birthDateString=18.6.2000
+name:009; value:int:001 -: startYear=0
+name:003; value:int:001 -: sex=0
+name:016; value:str:000 -: recordСardNumber=
+name:005; value:str:007 -: group=БАСО-02
+name:010; value:str:000 -: department=
+name:007; value:str:000 -: faculty=
+name:010; value:str:007 -: middleName=Исаевич
+name:004; value:str:004 -: name=Исая
+name:007; value:str:005 -: surName=Исаев
+### End Record
+### Start Record
+name:018; value:str:001 -: examsResults_0_2_m=5
+name:018; value:str:001 -: examsResults_0_2_s=1
+name:018; value:str:010 -: examsResults_0_2_n=Биотехника
+name:018; value:str:001 -: examsResults_0_1_m=2
+name:018; value:str:001 -: examsResults_0_1_s=0
+name:018; value:str:009 -: examsResults_0_1_n=Философия
+name:018; value:str:001 -: examsResults_0_0_m=3
+name:018; value:str:001 -: examsResults_0_0_s=1
+name:018; value:str:005 -: examsResults_0_0_n=Матан
+name:015; value:str:008 -: birthDateString=4.2.1999
+name:009; value:int:001 -: startYear=0
+name:003; value:int:001 -: sex=0
+name:016; value:str:008 -: recordСardNumber=20Б14201
+name:005; value:str:007 -: group=БАСО-01
+name:010; value:str:000 -: department=
+name:007; value:str:000 -: faculty=
+name:010; value:str:009 -: middleName=Семёнович
+name:004; value:str:005 -: name=Семён
+name:007; value:str:007 -: surName=Семёнов
+### End Record
+### Start Record
+name:018; value:str:001 -: examsResults_0_0_m=5
+name:018; value:str:001 -: examsResults_0_0_s=1
+name:018; value:str:005 -: examsResults_0_0_n=Матан
+name:015; value:str:009 -: birthDateString=23.3.1975
+name:009; value:int:004 -: startYear=2002
+name:003; value:int:001 -: sex=0
+name:016; value:str:000 -: recordСardNumber=
+name:005; value:str:007 -: group=БАСО-01
+name:010; value:str:000 -: department=
+name:007; value:str:000 -: faculty=
+name:010; value:str:009 -: middleName=Сергеевич
+name:004; value:str:006 -: name=Сергей
+name:007; value:str:007 -: surName=Сергеев
+### End Record
